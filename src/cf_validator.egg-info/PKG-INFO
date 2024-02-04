@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: cf-validator
+Version: 0.0.5
+Summary: Accepts the path and url of cloudformation document and validates it.
